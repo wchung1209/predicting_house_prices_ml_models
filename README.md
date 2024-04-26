@@ -1,2 +1,2 @@
-# datasci207_final_project
-Final Project Repo for DATASCI207
+# Predicting House Prices with ML Approach
+This is a project repo for DATASCI207 project. 
